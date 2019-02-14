@@ -54,8 +54,7 @@
                 android:id="@+id/button_comment"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Add Comment"
-                android:textStyle="bold" />
+                android:text="Add Comment" />
         </LinearLayout>
 
     </ScrollView>
