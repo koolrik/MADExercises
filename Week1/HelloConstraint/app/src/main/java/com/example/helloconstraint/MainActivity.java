@@ -37,5 +37,6 @@ public class MainActivity extends AppCompatActivity {
     public void showZero(View view) {
         mShowCount.setText(Integer.toString(0));
         button_Zero.setBackgroundColor(getResources().getColor(android.R.color.darker_gray));
+        mCount= 0;
     }
 }
