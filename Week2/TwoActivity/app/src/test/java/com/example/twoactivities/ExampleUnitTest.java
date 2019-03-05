@@ -1,4 +1,4 @@
-package com.example.twoactivity;
+package com.example.twoactivities;
 
 import org.junit.Test;
 
